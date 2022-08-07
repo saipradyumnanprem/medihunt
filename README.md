@@ -1,4 +1,5 @@
 # medihunt
+MediHunt is a python web scraping project done on php and html5 using bootstrap for interface, to help people get a short insight about a disease and the institutions currently studying the particular disease and its cure. It also provides you the links to fundraiser events and healthcare support for these diseases. It helps save lives, and help us in our hunt for knowledge of the medical field.
 
 #Update- The project is development is in progress Here is a look on so far what we have developed
 
